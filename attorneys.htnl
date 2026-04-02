@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA Testing for Attorneys | TSS Solutions</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+            background: #ffffff;
+        }
+
+        h1 {
+            color: #1a1a1a;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #444;
+        }
+
+        ul, ol {
+            margin-left: 20px;
+        }
+
+        .cta {
+            margin-top: 30px;
+            padding: 20px;
+            background: #e9f5ff;
+            border-left: 5px solid #007BFF;
+        }
+
+        .cta strong {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 12px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>DNA Testing Services for Attorneys</h1>
+
+    <p>
+        At <strong>TSS Solutions Mobile Drug & DNA Testing Services</strong>, we provide fast, accurate, and court-admissible DNA testing for legal professionals and their clients.
+    </p>
+
+    <p>
+        We understand the importance of <strong>chain of custody, accuracy, and professionalism</strong> in legal cases, and we are committed to delivering reliable results you can trust.
+    </p>
+
+    <h2>Why Attorneys Choose Us</h2>
+    <ul>
+        <li>✔ Court-Admissible DNA Testing</li>
+        <li>✔ Strict Chain of Custody Procedures</li>
+        <li>✔ Mobile Service – We Come to Your Client</li>
+        <li>✔ Fast Turnaround Times</li>
+        <li>✔ Professional & Confidential</li>
+    </ul>
+
+    <h2>Services Offered</h2>
+    <ul>
+        <li>Paternity Testing</li>
+        <li>Legal DNA Testing</li>
+        <li>Court-Ordered DNA Testing</li>
+        <li>Immigration DNA Testing</li>
+        <li>Relationship Testing</li>
+    </ul>
+
+    <h2>How It Works</h2>
+    <ol>
+        <li>Attorney or client contacts us</li>
+        <li>Appointment is scheduled (office or mobile)</li>
+        <li>Identification and chain of custody collected</li>
+        <li>Specimens sent to certified lab</li>
+        <li>Results delivered securely</li>
+    </ol>
+
+    <h2>Mobile Service Advantage</h2>
+    <p>
+        We travel to law offices, client homes, or agreed locations — making the process convenient and stress-free for your clients.
+    </p>
+
+    <div class="cta">
+        <strong>Partner with TSS Solutions Today</strong>
+        📞 276-768-0372<br>
+        📧 crystalsmith@tsssolutions.org<br>
+        🌐 tsssolutions.org
+
+        <br><br>
+        <a href="mailto:crystalsmith@tsssolutions.org" class="button">Contact Us</a>
+    </div>
+
+</div>
+
+</body>
+</html>
